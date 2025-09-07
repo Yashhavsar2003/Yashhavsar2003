@@ -33,11 +33,11 @@
 📝 Features: Product catalog, shopping cart, user authentication, order management  
 
 ### 2. **Online Food Ordering Website**  
-🍔 Built with: React, Spring Boot, Tailwind CSS, MySQL  
+🍔 Built with: React, Spring Boot, Tailwind CSS, MySQL, JavaScript, Java  
 📝 Features: Menu browsing, online ordering, backend API integration, responsive design  
 
 ### 3. **Employee Attendance Management System**  
-🗓️ Built with: Java, MySQL, JavaScript  
+🗓️ Built with: Java, MySQL
 📝 Features: Employee attendance tracking, login system, report generation  
 
 ---
